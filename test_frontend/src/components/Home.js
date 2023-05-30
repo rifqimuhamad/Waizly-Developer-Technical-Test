@@ -98,7 +98,7 @@ const Home = () => {
 
   async function deletePegawai(id) {
     try {
-      await axios.delete(`  ${id}`, {
+      await axios.delete(`http://127.0.0.1:8000/${id}`, {
         headers: {
           'Authorization': `Bearer ${token}` 
         }
