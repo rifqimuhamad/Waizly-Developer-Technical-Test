@@ -1,0 +1,42 @@
+.form-group {
+	text-align: left;
+}
+
+
+table {
+	margin-top: 20px;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: left;
+}
+
+.btn-success {
+	float: left;
+	background-color: #28a745;
+	border-color: #28a745;
+}
+
+.btn-success:hover {
+	float: left;
+	background-color: #218838;
+	border-color: #1e7e34;
+}
+
+.btn-danger {
+	float: left;
+	margin-left: 10px;
+	background-color: #dc3545;
+	border-color: #dc3545;
+}
+
+.btn-danger:hover {
+	float: left;
+	margin-left: 10px;
+	background-color: #c82333;
+	border-color: #bd2130;
+}
