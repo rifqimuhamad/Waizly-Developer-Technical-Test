@@ -31,7 +31,7 @@
 ![Add Data Pegawai](https://img001.prntscr.com/file/img001/QKofN5B2QMGgao6JV0NzIQ.png)
 
 ### Edit Pegawai
-![Edit Pegawai](https://img001.prntscr.com/file/img001/-cfOlkILSEeqjOicSJ_Qhg.png)
+![Edit Pegawai](https://img001.prntscr.com/file/img001/wLTgW7iyTguVkBsgXPi-_w.png)
 
 ## Implementation Test - Backend
 
