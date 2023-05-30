@@ -1,7 +1,7 @@
 import java.time.format.DateTimeFormatter;
 import java.time.LocalTime;
 
-public class Basic_Test2 {
+public class Basic_Test3{
 
     public static void main(String[] args) {
         String s = "12:01:00PM";
